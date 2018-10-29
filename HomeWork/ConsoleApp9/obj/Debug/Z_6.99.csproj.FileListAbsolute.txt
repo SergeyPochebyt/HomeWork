@@ -1,0 +1,6 @@
+D:\Dev\Zadachnik\HomeWork\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
+D:\Dev\Zadachnik\HomeWork\ConsoleApp9\bin\Debug\ConsoleApp9.exe
+D:\Dev\Zadachnik\HomeWork\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
+D:\Dev\Zadachnik\HomeWork\ConsoleApp9\obj\Debug\Z_6.99.csprojResolveAssemblyReference.cache
+D:\Dev\Zadachnik\HomeWork\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+D:\Dev\Zadachnik\HomeWork\ConsoleApp9\obj\Debug\ConsoleApp9.pdb

@@ -1,0 +1,5 @@
+D:\Dev\Zadachnik\HomeWork\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\Dev\Zadachnik\HomeWork\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\Dev\Zadachnik\HomeWork\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\Dev\Zadachnik\HomeWork\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\Dev\Zadachnik\HomeWork\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

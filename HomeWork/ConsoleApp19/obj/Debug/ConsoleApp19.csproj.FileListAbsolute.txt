@@ -1,0 +1,5 @@
+D:\Dev\Zadachnik\HomeWork\ConsoleApp19\bin\Debug\ConsoleApp19.exe.config
+D:\Dev\Zadachnik\HomeWork\ConsoleApp19\bin\Debug\ConsoleApp19.exe
+D:\Dev\Zadachnik\HomeWork\ConsoleApp19\bin\Debug\ConsoleApp19.pdb
+D:\Dev\Zadachnik\HomeWork\ConsoleApp19\obj\Debug\ConsoleApp19.exe
+D:\Dev\Zadachnik\HomeWork\ConsoleApp19\obj\Debug\ConsoleApp19.pdb

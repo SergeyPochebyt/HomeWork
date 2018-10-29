@@ -1,0 +1,6 @@
+D:\Dev\Zadachnik\HomeWork\HomeWork\bin\Debug\HomeWork.exe.config
+D:\Dev\Zadachnik\HomeWork\HomeWork\bin\Debug\HomeWork.exe
+D:\Dev\Zadachnik\HomeWork\HomeWork\bin\Debug\HomeWork.pdb
+D:\Dev\Zadachnik\HomeWork\HomeWork\obj\Debug\HomeWork.csprojResolveAssemblyReference.cache
+D:\Dev\Zadachnik\HomeWork\HomeWork\obj\Debug\HomeWork.exe
+D:\Dev\Zadachnik\HomeWork\HomeWork\obj\Debug\HomeWork.pdb

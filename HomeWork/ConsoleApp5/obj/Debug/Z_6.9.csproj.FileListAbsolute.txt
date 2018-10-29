@@ -1,0 +1,6 @@
+D:\Dev\Zadachnik\HomeWork\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+D:\Dev\Zadachnik\HomeWork\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+D:\Dev\Zadachnik\HomeWork\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+D:\Dev\Zadachnik\HomeWork\ConsoleApp5\obj\Debug\Z_6.9.csprojResolveAssemblyReference.cache
+D:\Dev\Zadachnik\HomeWork\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+D:\Dev\Zadachnik\HomeWork\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
