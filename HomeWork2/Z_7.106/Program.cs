@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace Z_7._106
 {
+    //7.106. Даны натуральное число m и целые числа d1, d2, ..., dm.Выяснить, верно
+    //ли, что количество положительных чисел di кратно трем.
     class Program
     {
         static void Main(string[] args)
